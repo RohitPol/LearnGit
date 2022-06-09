@@ -21,5 +21,8 @@ long factorial(long n)
 
 }
 
+int main()
+{
 
+}
 
