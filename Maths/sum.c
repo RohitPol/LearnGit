@@ -1,11 +1,8 @@
 #include<stdio.h>
 
-int add(int x, int y)
+int add(int x, int y);
+
+int add(int x. int y)
 {
-
-}
-
-int main()
-{
-
+	return x + y;
 }
